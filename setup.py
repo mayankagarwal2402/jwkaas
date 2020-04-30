@@ -15,8 +15,8 @@ setuptools.setup(
      url="https://github.com/vwt-digital/jwkaas",
      packages=setuptools.find_packages(),
      install_requires= [
-         'pyjwt==1.7.1',
-         'cryptography==2.8'
+         'pyjwt==1.6.4',
+         'cryptography==2.2.2'
      ],
      classifiers=[
          "Programming Language :: Python :: 3",
